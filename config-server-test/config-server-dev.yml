@@ -1,3 +1,4 @@
 crm:
   property:
     test: abcde
+    testencryption: '{cipher}a7ebba96c1cb51965d5ff25bf8ab4c91ea3bee18d9afc07e9f81622527adf68f'
