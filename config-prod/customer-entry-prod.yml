@@ -1,0 +1,4 @@
+mysql:
+  environment: prod
+  hostname: 123.57.25.123
+  password: crmdevtest2020
