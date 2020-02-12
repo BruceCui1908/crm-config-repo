@@ -1,0 +1,4 @@
+#kafka properties
+kafka.bootstrapAddress=172.17.82.174:9092
+customer.email.code.topic=CUSTOMER-EMAIL-CODE-TOPIC
+kafka.request.timeout=10000
